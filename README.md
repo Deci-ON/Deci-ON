@@ -1,7 +1,7 @@
 <h1 align="center">Opa 👋 Eu sou o Decion</h1>
 
 <p align="center">
-  🚀 Arquiteto de Soluções na Farma Conde | Python • FastAPI • Django • SQL Server
+  🚀 Arquiteto de Soluções | Python • FastAPI • Django • SQL Server
 </p>
 
 ---
